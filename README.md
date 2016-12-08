@@ -10,7 +10,7 @@ Este es un pequeño repositorio para probar la Tarea#1 del Study Jam. en el GitH
  Instalacion
   ---
   Clone con  el siguiente comando:
-  > $ git clone https://github.com/bennyhi/StudyJamTarea_1.git
+  > $ git clone https://github.com/bennyhi/StudyJam_Tarea_1
 
  Captura
  ---
