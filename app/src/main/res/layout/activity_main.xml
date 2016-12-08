@@ -42,7 +42,7 @@
             android:layout_height="wrap_content"
             android:text="Carlos Fernando MQ"
             android:textSize="13pt"
-            android:textStyle="bold"
+            android:textStyle="italic|bold"
             android:textAlignment="center"/>
     </LinearLayout>
     <LinearLayout
